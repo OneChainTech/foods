@@ -1,0 +1,31 @@
+{
+    "restaurants": [
+        {
+            "id": "1",
+            "name": "川味小馆",
+            "address": "上海市黄浦区南京东路123号",
+            "type": "sichuan",
+            "imageURL": "https://example.com/sichuan.jpg",
+            "latitude": 31.2304,
+            "longitude": 121.4737
+        },
+        {
+            "id": "2",
+            "name": "寿司之家",
+            "address": "上海市静安区南京西路456号",
+            "type": "japanese",
+            "imageURL": "https://example.com/japanese.jpg",
+            "latitude": 31.2352,
+            "longitude": 121.4692
+        },
+        {
+            "id": "3",
+            "name": "快乐快餐",
+            "address": "上海市徐汇区肇嘉浜路789号",
+            "type": "fastFood",
+            "imageURL": "https://example.com/fastfood.jpg",
+            "latitude": 31.2141,
+            "longitude": 121.4833
+        }
+    ]
+}
